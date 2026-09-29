@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="科成星球" width="180" />
+  <img src="assets/logo.svg" alt="科成星球" width="160" />
 </p>
 
 <h1 align="center">科成星球 · kchub-dev</h1>
@@ -79,21 +79,23 @@ kchub-dev 维护和整理与电子科技大学成都学院校园生活相关的�
 
 ## 社团资料
 
+**社团 B 站**：关注社团动态与活动内容　|　**社团 QQ**：加入社团交流与项目讨论
+
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-  <img src="assets/bilibili-qr.png" alt="社团 B 站二维码" width="200" />
+  <img src="assets/bilibili-qr.png" alt="社团 B 站二维码" width="320" />
   <br />
   <strong>社团 B 站</strong>
   <br />
-  <sub>关注社团动态与活动内容</sub>
+  关注社团动态与活动内容
 </td>
 <td width="50%" align="center" valign="top">
-  <img src="assets/qq-qr.png" alt="社团 QQ 二维码" width="200" />
+  <img src="assets/qq-qr.png" alt="社团 QQ 二维码" width="320" />
   <br />
   <strong>社团 QQ</strong>
   <br />
-  <sub>加入社团交流与项目讨论</sub>
+  加入社团交流与项目讨论
 </td>
 </tr>
 </table>
